@@ -1,0 +1,15 @@
+{
+  "name": "groupy",
+  "version": "0.0.1",
+  "description": "grouping the world",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
